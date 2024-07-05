@@ -50,3 +50,12 @@ This README provides an overview of the project setup, class structure, encounte
 
 John Doe:A,B,A,D,A,B,C,A,A,B
 Jane Smith:A,B,C,D,A,B,C,D,A,C
+
+
+**Test Case Screenshot**
+
+![Test Screenshot](https://i.imgur.com/jmJngtk.png)
+![Test Screenshot](https://i.imgur.com/sCHjpMB.png)
+![Test Screenshot](https://i.imgur.com/0ZIfvIE.png)
+
+
